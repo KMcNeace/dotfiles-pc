@@ -1,0 +1,57 @@
+2024-02-28 08:30:18.800 [info] Getting Manifest... ms-python.python
+2024-02-28 08:30:18.870 [info] Installing extension: ms-python.python
+2024-02-28 08:30:18.997 [info] Getting Manifest... ms-python.debugpy
+2024-02-28 08:30:19.228 [info] Installing extension: ms-python.debugpy ms-python.python
+2024-02-28 08:30:19.228 [info] Getting Manifest... github.vscode-pull-request-github
+2024-02-28 08:30:19.296 [info] Installing extension: github.vscode-pull-request-github
+2024-02-28 08:30:24.407 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-28 08:30:24.411 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2024-02-28 08:30:24.462 [info] Extracted extension to file:///home/kilan/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1-universal: github.vscode-pull-request-github
+2024-02-28 08:30:24.465 [info] Renamed to /home/kilan/.vscode-oss/extensions/github.vscode-pull-request-github-0.80.1-universal
+2024-02-28 08:30:24.467 [info] Extracting extension completed. github.vscode-pull-request-github
+2024-02-28 08:30:24.472 [info] Extension installed successfully: github.vscode-pull-request-github
+2024-02-28 08:30:24.549 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kilan/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kilan/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-28 08:30:24.990 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-28 08:30:24.991 [info] Extension signature verification is not done: ms-python.debugpy
+2024-02-28 08:30:25.338 [info] Extracted extension to file:///home/kilan/.vscode-oss/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2024-02-28 08:30:25.342 [info] Renamed to /home/kilan/.vscode-oss/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2024-02-28 08:30:25.344 [info] Extracting extension completed. ms-python.debugpy
+2024-02-28 08:30:25.424 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kilan/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kilan/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)
+2024-02-28 08:30:36.538 [error] Could not load vsce-sign module Cannot find module 'node-vsce-sign'
+Require stack:
+- /usr/lib/code/out/bootstrap-amd.js
+- /usr/lib/code/out/bootstrap-fork.js
+- 
+2024-02-28 08:30:36.539 [info] Extension signature verification is not done: ms-python.python
+2024-02-28 08:30:37.596 [info] Extracted extension to file:///home/kilan/.vscode-oss/extensions/ms-python.python-2024.0.1-universal: ms-python.python
+2024-02-28 08:30:37.650 [info] Renamed to /home/kilan/.vscode-oss/extensions/ms-python.python-2024.0.1-universal
+2024-02-28 08:30:37.653 [info] Extracting extension completed. ms-python.python
+2024-02-28 08:30:37.670 [info] Extension installed successfully: ms-python.debugpy
+2024-02-28 08:30:37.670 [info] Extension installed successfully: ms-python.python
+2024-02-28 08:30:37.735 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/kilan/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/kilan/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30119)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30234)
+    at i.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36631)
+    at i.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:29077)
+    at async v.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:16223)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:108626)

@@ -1,0 +1,7 @@
+2024/02/28-09:00:19.830 850e Reusing MANIFEST /home/kilan/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/02/28-09:00:19.830 850e Recovering log #3
+2024/02/28-09:00:19.848 850e Reusing old log /home/kilan/.config/chromium/Default/WebStorage/2/IndexedDB/indexeddb.leveldb/000003.log 
+2024/02/28-09:00:32.328 850e Level-0 table #5: started
+2024/02/28-09:00:32.329 850e Level-0 table #5: 11727 bytes OK
+2024/02/28-09:00:32.329 850e Delete type=0 #3
+2024/02/28-09:00:32.330 850e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,9 @@
+2024-02-28 08:27:38.203 [info] update#setState disabled
+2024-02-28 08:27:38.203 [info] update#ctor - updates are disabled as there is no update URL
+2024-02-28 08:30:37.757 [error] Blocked vscode-webview request vscode-webview://0o19nouc5r7oevt7hdd0qoi7bmlupevb9b23e1ntdhpohoadiqiq/index.html?id=2435e0e2-5201-414c-99fd-4f95b7d9b5d6&origin=2435e0e2-5201-414c-99fd-4f95b7d9b5d6&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
+2024-02-28 08:47:25.440 [info] Extension host with pid 48046 exited with code: 0, signal: unknown.
+2024-02-28 08:47:25.444 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2024-02-28 08:47:25.444 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 48044]: crashed with code 15 and reason 'killed'
+2024-02-28 09:04:06.179 [error] Blocked vscode-webview request vscode-webview://054nr9ua1n7hg8ommkur8434iltdoer33vktejbj93r9evb7v8cp/index.html?id=2638f422-6d38-4a4a-8d99-d60b36ce3fd6&origin=2638f422-6d38-4a4a-8d99-d60b36ce3fd6&swVersion=4&extensionId=&platform=electron&vscode-resource-base-authority=vscode-resource.vscode-cdn.net&parentOrigin=vscode-file%3A%2F%2Fvscode-app
+2024-02-28 09:04:06.202 [error] CodeWindow: failed to load (reason: ERR_BLOCKED_BY_CLIENT, code: -20)
+2024-02-28 09:33:08.288 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
